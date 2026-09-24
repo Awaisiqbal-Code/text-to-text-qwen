@@ -1,0 +1,7 @@
+# Runtime dependencies used by notebook/Text_to_Text_reuseabel.ipynb
+# Google Colab may already provide torch, but the notebook imports it directly.
+torch
+transformers
+accelerate
+bitsandbytes
+huggingface_hub
